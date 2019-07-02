@@ -1,29 +1,16 @@
 # vk-auth
 
-## Project setup
+## Установка пакетов
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запуск dev сервера
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
