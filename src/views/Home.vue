@@ -2,7 +2,7 @@
   <div class="home">
     <a
       class="btn"
-      href="https://oauth.vk.com/authorize?client_id=7041570&display=popup&redirect_uri=http://localhost:8080/auth/&scope=friends&response_type=token&v=5.100&state=123456"
+      href="https://oauth.vk.com/authorize?client_id=7043791&display=popup&redirect_uri=http://f0316626.xsph.ru/auth/&scope=friends&response_type=token&v=5.100&state=123456"
       v-if="!isLogin">
       Авторизация
     </a>
